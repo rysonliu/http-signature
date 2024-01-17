@@ -14,7 +14,7 @@ signatures.
 Installation
 ---
 
-    composer require jasny/http-signature
+    composer require rysonliu/http-signature
 
 Usage
 ---
