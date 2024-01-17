@@ -1,5 +1,5 @@
 {
-    "name": "jasny/http-signature",
+    "name": "rysonliu/http-signature",
     "description": "Implementation of the IETF HTTP Signatures draft RFC",
     "license": "MIT",
     "type": "library",
@@ -19,7 +19,7 @@
         "improved/improved": "^0.1.0",
         "nesbot/carbon": "^2.12",
         "psr/http-factory": "^1.0",
-        "psr/http-message": "^1.0",
+        "psr/http-message": "^1.1 || ^2.0",
         "psr/http-server-handler": "^1.0",
         "psr/http-server-middleware": "^1.0"
     },
